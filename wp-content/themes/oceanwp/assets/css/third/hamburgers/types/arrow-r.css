@@ -1,0 +1,2 @@
+.hamburger--arrow-r.is-active .hamburger-inner::before {-webkit-transform: translate3d(4px,2px,0) rotate(45deg) scale(.7,1);transform: translate3d(4px,2px,0) rotate(45deg) scale(.7,1);}
+.hamburger--arrow-r.is-active .hamburger-inner::after {-webkit-transform: translate3d(4px,-2px,0) rotate(-45deg) scale(.7,1);transform: translate3d(4px,-2px,0) rotate(-45deg) scale(.7,1);}
